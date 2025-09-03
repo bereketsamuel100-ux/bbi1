@@ -1,0 +1,177 @@
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-09-01T14:01:06.861Z"}
+{"level":"info","message":"MongoDB Atlas connected successfully!","timestamp":"2025-09-01T14:01:06.938Z"}
+{"level":"info","message":"Redis connected successfully","timestamp":"2025-09-01T14:01:07.449Z"}
+{"level":"error","message":"Error fetching cart: logger is not defined","timestamp":"2025-09-01T14:05:08.734Z"}
+{"level":"info","message":"=== BACKEND ADD TO CART DEBUG ===","timestamp":"2025-09-01T14:05:11.156Z"}
+{"level":"info","menuItemId":"68af20b413a6283e7c2e51f0","message":"Request body:","quantity":1,"restaurantId":"68af20b413a6283e7c2e51ee","timestamp":"2025-09-01T14:05:11.157Z"}
+{"level":"info","menuCount":2,"message":"Restaurant found:","name":"Injera House","timestamp":"2025-09-01T14:05:11.161Z"}
+{"level":"info","message":"Looking for menu item with ID:","timestamp":"2025-09-01T14:05:11.161Z"}
+{"id":"68af20b413a6283e7c2e51f0","level":"info","message":"Menu item found:","name":"Tibs","price":90,"timestamp":"2025-09-01T14:05:11.162Z"}
+{"0":{"name":"Tibs","price":90,"quantity":4},"level":"info","message":"Final cart items before save:","timestamp":"2025-09-01T14:05:11.169Z"}
+{"level":"info","message":"=== BACKEND ADD TO CART DEBUG ===","timestamp":"2025-09-01T14:05:11.851Z"}
+{"level":"info","menuItemId":"68af20b413a6283e7c2e51f0","message":"Request body:","quantity":1,"restaurantId":"68af20b413a6283e7c2e51ee","timestamp":"2025-09-01T14:05:11.851Z"}
+{"level":"info","menuCount":2,"message":"Restaurant found:","name":"Injera House","timestamp":"2025-09-01T14:05:11.854Z"}
+{"level":"info","message":"Looking for menu item with ID:","timestamp":"2025-09-01T14:05:11.855Z"}
+{"id":"68af20b413a6283e7c2e51f0","level":"info","message":"Menu item found:","name":"Tibs","price":90,"timestamp":"2025-09-01T14:05:11.855Z"}
+{"0":{"name":"Tibs","price":90,"quantity":5},"level":"info","message":"Final cart items before save:","timestamp":"2025-09-01T14:05:11.858Z"}
+{"level":"info","message":"=== BACKEND ADD TO CART DEBUG ===","timestamp":"2025-09-01T14:05:12.073Z"}
+{"level":"info","menuItemId":"68af20b413a6283e7c2e51f0","message":"Request body:","quantity":1,"restaurantId":"68af20b413a6283e7c2e51ee","timestamp":"2025-09-01T14:05:12.074Z"}
+{"level":"info","menuCount":2,"message":"Restaurant found:","name":"Injera House","timestamp":"2025-09-01T14:05:12.076Z"}
+{"level":"info","message":"Looking for menu item with ID:","timestamp":"2025-09-01T14:05:12.076Z"}
+{"id":"68af20b413a6283e7c2e51f0","level":"info","message":"Menu item found:","name":"Tibs","price":90,"timestamp":"2025-09-01T14:05:12.077Z"}
+{"0":{"name":"Tibs","price":90,"quantity":6},"level":"info","message":"Final cart items before save:","timestamp":"2025-09-01T14:05:12.079Z"}
+{"level":"error","message":"Error fetching cart: logger is not defined","timestamp":"2025-09-01T14:05:12.540Z"}
+{"level":"error","message":"Error fetching cart: logger is not defined","timestamp":"2025-09-01T14:05:14.272Z"}
+{"level":"error","message":"Error fetching cart: logger is not defined","timestamp":"2025-09-01T14:05:14.544Z"}
+{"0":{"_id":"68b59fe3bcabe834ab6ffe6d","menuItemId":"68af20b413a6283e7c2e51f0","name":"Tibs","price":90,"quantity":6},"level":"info","message":"Cart items:","timestamp":"2025-09-01T14:05:18.680Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-09-01T14:07:16.807Z"}
+{"level":"info","message":"MongoDB Atlas connected successfully!","timestamp":"2025-09-01T14:07:16.873Z"}
+{"level":"info","message":"Redis connected successfully","timestamp":"2025-09-01T14:07:17.186Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-09-01T14:15:26.210Z"}
+{"level":"info","message":"MongoDB Atlas connected successfully!","timestamp":"2025-09-01T14:15:26.410Z"}
+{"level":"info","message":"Redis connected successfully","timestamp":"2025-09-01T14:15:26.874Z"}
+{"buffer":{"data":[104,181,170,169,38,172,131,47,19,236,91,92],"type":"Buffer"},"level":"info","message":"Restaurant user created:","timestamp":"2025-09-01T14:16:10.995Z"}
+{"level":"info","message":"Status: 251988076411-000000","timestamp":"2025-09-01T14:16:11.142Z"}
+{"level":"info","message":"Redis set results: OK","timestamp":"2025-09-01T14:16:11.383Z"}
+{"level":"info","message":"Status: 251988076411-000000","timestamp":"2025-09-01T14:16:19.539Z"}
+{"level":"info","message":"OTP verified for 251988076411","timestamp":"2025-09-01T14:16:25.834Z"}
+{"level":"info","message":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4YjVhYWE5MjZhYzgzMmYxM2VjNWI1YyIsImlhdCI6MTc1NjczNjE4NSwiZXhwIjoxNzU3MzQwOTg1fQ._CgdEfmLq0DFh1_uovjAkPiuIrPEJn_syoW8Fo7zmdI","timestamp":"2025-09-01T14:16:25.966Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T14:24:18.214Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T14:24:23.224Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T14:24:28.243Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T14:24:33.363Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T14:24:38.585Z"}
+{"level":"info","message":"Redis connected successfully","timestamp":"2025-09-01T14:24:43.517Z"}
+{"level":"error","message":"Error fetching cart: logger is not defined","timestamp":"2025-09-01T14:24:44.676Z"}
+{"level":"info","message":"=== BACKEND ADD TO CART DEBUG ===","timestamp":"2025-09-01T14:24:44.771Z"}
+{"level":"info","menuItemId":"68b5ab0326ac832f13ec5b70","message":"Request body:","quantity":1,"restaurantId":"68b5aaaa26ac832f13ec5b5e","timestamp":"2025-09-01T14:24:44.841Z"}
+{"level":"info","menuCount":1,"message":"Restaurant found:","name":"aga","timestamp":"2025-09-01T14:24:45.009Z"}
+{"level":"info","message":"Looking for menu item with ID:","timestamp":"2025-09-01T14:24:45.059Z"}
+{"id":"68b5ab0326ac832f13ec5b70","level":"info","message":"Menu item found:","name":"lam tibs","price":150,"timestamp":"2025-09-01T14:24:45.070Z"}
+{"level":"info","menuItemId":"68b5ab0326ac832f13ec5b70","message":"Adding new item to cart:","name":"lam tibs","price":150,"quantity":1,"timestamp":"2025-09-01T14:24:45.115Z"}
+{"0":{"name":"lam tibs","price":150,"quantity":1},"level":"info","message":"Final cart items before save:","timestamp":"2025-09-01T14:24:45.177Z"}
+{"level":"error","message":"Error fetching cart: logger is not defined","timestamp":"2025-09-01T14:24:47.144Z"}
+{"level":"error","message":"Error fetching cart: logger is not defined","timestamp":"2025-09-01T14:24:47.367Z"}
+{"0":{"_id":"68aff006cfe411454ca740dd","menuItemId":"68af20b413a6283e7c2e51f3","name":"Garlic Bread","price":40,"quantity":1},"level":"info","message":"Cart items:","timestamp":"2025-09-01T14:24:50.704Z"}
+{"0":{"_id":"68b5acad26ac832f13ec5bbb","menuItemId":"68b5ab0326ac832f13ec5b70","name":"lam tibs","price":150,"quantity":1},"level":"info","message":"Cart items:","timestamp":"2025-09-01T14:27:04.396Z"}
+{"level":"error","message":"Error fetching cart: logger is not defined","timestamp":"2025-09-01T14:27:05.033Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T14:28:14.366Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T14:28:19.383Z"}
+{"level":"info","message":"Redis connected successfully","timestamp":"2025-09-01T14:28:21.663Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T15:13:17.904Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T15:13:23.073Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T15:13:28.082Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T15:13:33.207Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T15:13:38.439Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T15:13:45.741Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T15:13:51.162Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T15:13:57.237Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T15:14:02.861Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T15:14:08.592Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T15:14:14.414Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T15:14:20.905Z"}
+{"level":"info","message":"Redis connected successfully","timestamp":"2025-09-01T15:14:25.425Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-09-01T15:31:30.020Z"}
+{"level":"info","message":"MongoDB Atlas connected successfully!","timestamp":"2025-09-01T15:31:30.091Z"}
+{"level":"info","message":"Redis connected successfully","timestamp":"2025-09-01T15:31:33.034Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T15:48:02.188Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T15:48:07.497Z"}
+{"level":"info","message":"Redis connected successfully","timestamp":"2025-09-01T15:48:11.067Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T15:50:32.856Z"}
+{"level":"info","message":"Redis connected successfully","timestamp":"2025-09-01T15:50:36.634Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T15:53:00.888Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T15:53:05.898Z"}
+{"level":"info","message":"Redis connected successfully","timestamp":"2025-09-01T15:53:11.090Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T16:06:44.362Z"}
+{"level":"info","message":"Redis connected successfully","timestamp":"2025-09-01T16:06:45.176Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T16:10:01.360Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T16:10:06.372Z"}
+{"level":"info","message":"Redis connected successfully","timestamp":"2025-09-01T16:10:09.300Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T16:23:44.252Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T16:23:49.261Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T16:23:54.300Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T16:23:59.412Z"}
+{"level":"info","message":"Redis connected successfully","timestamp":"2025-09-01T16:24:03.233Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T16:33:25.626Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T16:33:30.634Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T16:33:35.656Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T16:33:40.767Z"}
+{"level":"info","message":"Redis connected successfully","timestamp":"2025-09-01T16:33:41.584Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T16:36:55.313Z"}
+{"level":"info","message":"Redis connected successfully","timestamp":"2025-09-01T16:37:00.397Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-09-01T16:45:53.803Z"}
+{"level":"info","message":"MongoDB Atlas connected successfully!","timestamp":"2025-09-01T16:45:53.846Z"}
+{"level":"info","message":"Redis connected successfully","timestamp":"2025-09-01T16:45:54.322Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-09-01T17:18:38.789Z"}
+{"level":"info","message":"MongoDB Atlas connected successfully!","timestamp":"2025-09-01T17:18:38.899Z"}
+{"level":"info","message":"Redis connected successfully","timestamp":"2025-09-01T17:18:39.259Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T17:27:12.556Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T17:27:18.557Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T17:27:25.368Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T17:27:30.500Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T17:27:35.741Z"}
+{"level":"info","message":"Redis connected successfully","timestamp":"2025-09-01T17:27:39.576Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T17:27:54.967Z"}
+{"level":"info","message":"Redis connected successfully","timestamp":"2025-09-01T17:27:55.787Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T17:44:10.942Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T17:44:16.036Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T17:44:21.084Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T17:44:26.494Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T17:44:31.714Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T17:44:37.032Z"}
+{"level":"info","message":"Redis connected successfully","timestamp":"2025-09-01T17:44:43.324Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T17:47:22.876Z"}
+{"level":"info","message":"Redis connected successfully","timestamp":"2025-09-01T17:47:26.485Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T17:53:45.740Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T17:53:50.756Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T17:53:55.774Z"}
+{"level":"info","message":"Redis connected successfully","timestamp":"2025-09-01T17:53:56.220Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T17:58:37.655Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T17:58:42.662Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T17:58:47.675Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T17:58:52.790Z"}
+{"level":"info","message":"Redis connected successfully","timestamp":"2025-09-01T17:58:54.279Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T18:01:51.504Z"}
+{"level":"info","message":"Redis connected successfully","timestamp":"2025-09-01T18:01:53.381Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T18:05:09.524Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T18:05:14.541Z"}
+{"level":"info","message":"Redis connected successfully","timestamp":"2025-09-01T18:05:15.241Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T18:07:31.890Z"}
+{"level":"info","message":"Redis connected successfully","timestamp":"2025-09-01T18:07:35.249Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T18:07:50.599Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T18:07:55.611Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T18:08:00.621Z"}
+{"level":"info","message":"Redis connected successfully","timestamp":"2025-09-01T18:08:04.815Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T18:11:27.682Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T18:11:32.692Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T18:11:39.608Z"}
+{"level":"info","message":"Redis connected successfully","timestamp":"2025-09-01T18:11:42.565Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T18:12:58.169Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T18:13:03.184Z"}
+{"level":"info","message":"Redis connected successfully","timestamp":"2025-09-01T18:13:07.515Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T18:13:46.641Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T18:13:51.669Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T18:13:56.680Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T18:14:01.794Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T18:14:07.028Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-01T18:14:07.357Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-01T18:14:07.762Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-01T18:14:08.272Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-01T18:14:08.877Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T18:14:17.094Z"}
+{"level":"info","message":"Redis connected successfully","timestamp":"2025-09-01T18:14:21.939Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T18:15:51.301Z"}
+{"level":"info","message":"Redis connected successfully","timestamp":"2025-09-01T18:15:54.224Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T18:16:18.771Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T18:16:23.784Z"}
+{"level":"info","message":"Redis connected successfully","timestamp":"2025-09-01T18:16:24.806Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T18:18:52.854Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T18:18:57.857Z"}
+{"level":"info","message":"Redis connected successfully","timestamp":"2025-09-01T18:19:01.933Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T18:20:50.801Z"}
+{"level":"info","message":"Redis connected successfully","timestamp":"2025-09-01T18:20:53.277Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T18:22:01.985Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T18:22:06.992Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T18:22:12.011Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T18:22:17.130Z"}
+{"level":"info","message":"Redis connected successfully","timestamp":"2025-09-01T18:22:21.938Z"}
