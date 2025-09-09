@@ -1,0 +1,1304 @@
+{"level":"error","message":"Error fetching cart: logger is not defined","timestamp":"2025-09-01T14:05:08.734Z"}
+{"level":"error","message":"Error fetching cart: logger is not defined","timestamp":"2025-09-01T14:05:12.540Z"}
+{"level":"error","message":"Error fetching cart: logger is not defined","timestamp":"2025-09-01T14:05:14.272Z"}
+{"level":"error","message":"Error fetching cart: logger is not defined","timestamp":"2025-09-01T14:05:14.544Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T14:24:18.214Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T14:24:23.224Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T14:24:28.243Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T14:24:33.363Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T14:24:38.585Z"}
+{"level":"error","message":"Error fetching cart: logger is not defined","timestamp":"2025-09-01T14:24:44.676Z"}
+{"level":"error","message":"Error fetching cart: logger is not defined","timestamp":"2025-09-01T14:24:47.144Z"}
+{"level":"error","message":"Error fetching cart: logger is not defined","timestamp":"2025-09-01T14:24:47.367Z"}
+{"level":"error","message":"Error fetching cart: logger is not defined","timestamp":"2025-09-01T14:27:05.033Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T14:28:14.366Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T14:28:19.383Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T15:13:17.904Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T15:13:23.073Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T15:13:28.082Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T15:13:33.207Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T15:13:38.439Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T15:13:45.741Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T15:13:51.162Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T15:13:57.237Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T15:14:02.861Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T15:14:08.592Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T15:14:14.414Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T15:14:20.905Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T15:48:02.188Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T15:48:07.497Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T15:50:32.856Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T15:53:00.888Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T15:53:05.898Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T16:06:44.362Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T16:10:01.360Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T16:10:06.372Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T16:23:44.252Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T16:23:49.261Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T16:23:54.300Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T16:23:59.412Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T16:33:25.626Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T16:33:30.634Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T16:33:35.656Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T16:33:40.767Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T16:36:55.313Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T17:27:12.556Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T17:27:18.557Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T17:27:25.368Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T17:27:30.500Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T17:27:35.741Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T17:27:54.967Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T17:44:10.942Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T17:44:16.036Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T17:44:21.084Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T17:44:26.494Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T17:44:31.714Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T17:44:37.032Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T17:47:22.876Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T17:53:45.740Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T17:53:50.756Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T17:53:55.774Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T17:58:37.655Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T17:58:42.662Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T17:58:47.675Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T17:58:52.790Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T18:01:51.504Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T18:05:09.524Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T18:05:14.541Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T18:07:31.890Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T18:07:50.599Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T18:07:55.611Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T18:08:00.621Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T18:11:27.682Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T18:11:32.692Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T18:11:39.608Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T18:12:58.169Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T18:13:03.184Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T18:13:46.641Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T18:13:51.669Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T18:13:56.680Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T18:14:01.794Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T18:14:07.028Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-01T18:14:07.357Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-01T18:14:07.762Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-01T18:14:08.272Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-01T18:14:08.877Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T18:14:17.094Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T18:15:51.301Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T18:16:18.771Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T18:16:23.784Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T18:18:52.854Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T18:18:57.857Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T18:20:50.801Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-01T18:22:01.985Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T18:22:06.992Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T18:22:12.011Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-01T18:22:17.130Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-03T08:03:47.398Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-03T08:03:52.489Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:03:52.539Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:03:52.670Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:03:52.890Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:03:53.207Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:03:53.622Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:03:54.151Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:03:54.778Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:03:55.501Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:03:56.312Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:03:57.231Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:03:58.251Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:03:59.378Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:04:00.618Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:04:01.947Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:04:03.357Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:04:04.860Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:04:06.466Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:04:08.178Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:04:09.997Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:04:11.909Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:04:13.919Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:04:16.025Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:04:18.236Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:04:20.545Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:04:22.956Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:04:25.466Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:04:28.072Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:04:30.778Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:04:33.594Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:04:36.513Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:04:39.520Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:04:42.529Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:04:45.535Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:04:48.545Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:04:51.559Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:04:54.574Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:04:57.590Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:05:00.605Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:05:03.642Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:05:06.650Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:05:09.656Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:05:12.671Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:05:15.684Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:05:18.699Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:05:21.709Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:05:24.724Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:05:27.735Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:05:30.740Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:05:33.759Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:05:36.766Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:05:39.775Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:05:42.787Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:05:45.802Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:05:48.822Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:05:51.831Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:05:54.841Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:05:57.855Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:06:00.869Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:06:03.877Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:06:06.891Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:06:09.897Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:06:12.908Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:06:15.922Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:06:18.940Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:06:21.952Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:06:24.960Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:06:27.973Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:06:30.981Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:06:33.994Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:06:36.999Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:06:40.016Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:06:43.034Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:06:46.041Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:06:49.054Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:06:52.070Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:06:55.083Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:06:58.095Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:07:01.113Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:07:04.120Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:07:07.125Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:07:10.136Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T08:07:13.145Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-03T20:09:05.144Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T20:09:05.328Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T20:09:05.346Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T20:09:05.454Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T20:09:05.763Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T20:09:06.174Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T20:09:06.581Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T20:09:07.091Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T20:09:07.706Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T20:09:08.422Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T20:09:09.235Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T20:09:10.149Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T20:09:11.167Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T20:09:12.278Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-03T20:09:13.497Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T05:50:04.870Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T05:50:06.276Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T05:50:07.789Z"}
+{"level":"error","message":"Redis error: write ECONNRESET","timestamp":"2025-09-04T05:50:22.334Z"}
+{"level":"error","message":"Redis error: write ECONNRESET","timestamp":"2025-09-04T05:50:22.376Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-04T05:50:43.322Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T05:50:43.427Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T05:50:43.449Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T05:50:43.586Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T05:50:43.796Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T05:50:44.225Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T05:50:44.746Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T05:50:45.308Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T05:50:45.936Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T05:50:46.659Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T05:50:47.469Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T05:50:48.415Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T05:50:49.428Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T05:50:50.546Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T05:50:51.768Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T05:50:53.112Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T05:50:54.529Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-04T12:35:00.211Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T12:35:00.464Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T12:35:00.480Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T12:35:00.605Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T12:35:00.835Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T12:35:01.145Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T12:35:01.552Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T12:35:02.065Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T12:35:02.686Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T12:35:03.399Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T12:35:04.211Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T12:35:05.129Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T12:35:06.141Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T12:35:07.243Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T12:35:08.461Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T12:35:09.772Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T12:35:12.156Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T12:35:13.668Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T12:35:15.285Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T12:35:16.989Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T12:35:18.793Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T12:35:20.706Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T12:35:22.719Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T12:35:24.830Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T12:35:27.040Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T12:35:29.871Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T12:35:32.281Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T12:35:34.802Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T12:35:37.406Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T12:35:40.112Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T12:35:42.928Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T12:35:45.842Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T12:35:48.859Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T12:35:51.875Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T12:35:54.890Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T12:35:57.897Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T12:36:00.920Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T12:36:03.964Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T12:36:07.018Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T12:36:10.027Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T12:36:13.036Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T12:36:16.043Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T12:36:19.057Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T12:36:22.072Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T12:36:25.087Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-04T14:20:18.201Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:20:23.538Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:20:24.225Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:20:29.353Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:20:30.075Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:20:35.426Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:20:40.849Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:20:46.392Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:20:52.004Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:20:53.212Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:20:59.065Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:20:59.980Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:21:00.987Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:21:02.092Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:21:03.297Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:21:04.723Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:21:11.206Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:21:18.145Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:21:19.761Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:21:21.627Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:21:23.498Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:21:25.423Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:21:27.496Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:21:34.660Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:21:41.040Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:21:48.353Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:21:50.765Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:21:53.281Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:21:55.894Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:21:58.601Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:22:01.415Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:22:04.335Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:22:07.510Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:22:10.518Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:22:18.537Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:22:21.555Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:22:24.564Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:22:27.631Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:22:30.650Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:22:33.671Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:22:36.679Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:22:39.693Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:22:42.704Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:22:45.709Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:22:48.720Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:22:51.732Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:22:54.954Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:22:58.561Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:23:01.570Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:23:04.585Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:23:07.591Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:23:10.599Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:23:14.071Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:23:17.078Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:23:20.092Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:23:23.112Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:23:26.128Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:23:29.139Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:23:32.151Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:23:40.525Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:23:46.576Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:23:54.585Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:23:57.597Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:24:00.607Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:24:03.624Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:24:06.630Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:24:09.643Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:24:12.660Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:24:20.677Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:24:23.689Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:24:26.698Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:24:29.716Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:24:32.725Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:24:35.741Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:24:38.745Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:24:41.757Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:24:44.773Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:24:47.779Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:24:56.135Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:24:59.146Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:25:02.161Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:25:05.317Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:25:08.333Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:25:16.356Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:25:19.372Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:25:22.384Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:25:25.396Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:25:28.414Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:25:31.432Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:25:34.452Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:25:42.473Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:25:48.846Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:25:56.868Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:25:59.884Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:26:02.892Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:26:05.910Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:26:08.925Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:26:11.940Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:26:19.953Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:26:22.963Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:26:25.974Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:26:28.992Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:26:32.004Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:26:35.026Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:26:38.044Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:26:41.059Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:26:44.069Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:26:47.079Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:26:50.087Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:26:53.095Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:26:56.109Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:26:59.115Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:27:02.126Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:27:05.134Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:27:08.140Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:27:11.148Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:27:14.159Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:27:17.171Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:27:20.181Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:27:23.194Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:27:26.204Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:27:29.221Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:27:32.231Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:27:35.242Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:27:38.250Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:27:41.270Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:27:49.316Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:27:55.702Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:28:03.711Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:28:11.744Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:28:18.134Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:28:21.153Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:28:29.194Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:28:35.559Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:28:43.579Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:28:46.584Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:28:49.600Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:28:52.618Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:28:55.634Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:28:58.641Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:29:01.657Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:29:04.667Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:29:12.693Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:29:15.701Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:29:18.711Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:29:21.728Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:29:24.740Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:29:27.742Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:29:30.758Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:29:33.767Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:29:36.784Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:29:39.790Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:29:42.798Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:29:45.818Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:29:48.829Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:29:51.842Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:29:54.854Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:29:57.859Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:30:00.869Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:30:03.886Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:30:06.899Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:30:09.908Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:30:12.924Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:30:15.941Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:30:18.955Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:30:21.973Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:30:24.982Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:30:27.995Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:30:36.022Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:30:42.385Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:30:50.402Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:30:53.408Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:30:56.424Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:30:59.433Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:31:02.448Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:31:05.455Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:31:08.472Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:31:16.501Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:31:22.882Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:31:25.886Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:31:28.898Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:31:31.909Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:31:34.926Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:31:42.939Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:31:45.946Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:31:48.956Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:31:51.961Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:31:54.971Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:31:57.988Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:32:05.998Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:32:09.013Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:32:12.029Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:32:15.041Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:32:18.057Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:32:21.072Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:32:24.078Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:32:27.083Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:32:35.089Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:32:41.487Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:32:49.512Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:32:52.516Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:32:55.527Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:32:58.535Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:33:01.541Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:33:04.554Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:33:07.561Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:33:10.572Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:33:18.599Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:33:21.605Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:33:24.610Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:33:27.628Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:33:30.646Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:33:33.652Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:33:41.665Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:33:44.678Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:33:48.040Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:33:51.047Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:33:54.053Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:33:57.062Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:34:00.078Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:34:03.092Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:34:06.102Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:34:09.108Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:34:17.121Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:34:20.138Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:34:23.154Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:34:26.164Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:34:29.183Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:34:32.198Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:34:40.211Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:34:43.220Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:34:46.238Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:34:49.245Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:34:52.253Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:34:55.268Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:35:03.294Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:35:06.316Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:35:09.332Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:35:17.346Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:35:23.729Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:35:31.743Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:35:38.124Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:35:41.129Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:35:44.142Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:35:47.148Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:35:50.178Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:35:58.192Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:36:01.207Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:36:04.226Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:36:07.231Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:36:10.235Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:36:13.244Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:36:16.256Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:36:24.268Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:36:27.288Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:36:30.297Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:36:33.302Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:36:36.315Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:36:39.326Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:36:42.344Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:36:45.356Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:36:53.363Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:36:56.524Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:36:59.530Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:37:02.543Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:37:05.561Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:37:08.579Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:37:16.603Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:37:19.618Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:37:22.632Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:37:25.652Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:37:28.659Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:37:31.675Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:37:39.693Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:37:42.699Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:37:45.715Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:37:48.735Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:37:51.748Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:37:54.766Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:37:57.779Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:38:05.793Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:38:12.163Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:38:15.174Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:38:18.189Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:38:21.196Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:38:24.208Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:38:32.233Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:38:35.245Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:38:38.259Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:38:41.262Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:38:44.270Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:38:47.287Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:38:55.331Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:38:58.346Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:39:01.352Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:39:04.370Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:39:07.385Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:39:10.392Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:39:18.401Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:39:24.796Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:39:32.819Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:39:39.209Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:39:42.272Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:39:45.278Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:39:48.294Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:39:51.310Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:39:59.328Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:40:02.343Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:40:05.707Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:40:08.715Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:40:11.719Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:40:14.735Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:40:17.754Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:40:20.940Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:40:28.965Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:40:36.976Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:40:43.369Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:40:51.392Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:40:57.775Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:41:00.792Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:41:03.817Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:41:06.822Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:41:09.836Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:41:17.856Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:41:24.228Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:41:27.233Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:41:30.250Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:41:38.265Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:41:44.646Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:41:47.663Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:41:50.671Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:41:53.680Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:41:56.691Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:41:59.706Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:42:07.720Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:42:10.732Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:42:13.750Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:42:16.754Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:42:24.785Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:42:31.168Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:42:39.190Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:42:45.557Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:42:53.575Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:42:59.961Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:43:07.991Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:43:14.373Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:43:22.388Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:43:25.404Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:43:28.420Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:43:31.435Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:43:34.452Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:43:37.468Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:43:45.495Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:43:53.504Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:43:59.881Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:44:07.896Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:44:14.256Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:44:22.268Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:44:28.651Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:44:36.669Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:44:44.682Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:44:51.062Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:44:54.067Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:44:57.084Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:45:00.098Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:45:03.108Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:45:06.122Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:45:09.140Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:45:12.145Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:45:20.167Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:45:28.188Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:45:34.561Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:45:42.572Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:45:48.984Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:45:57.011Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:46:03.436Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:46:11.450Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:46:14.455Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:46:17.467Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:46:20.472Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:46:23.490Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:46:26.500Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:46:34.518Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:46:37.529Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:46:40.564Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:46:43.584Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:46:46.600Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:46:49.618Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:46:57.635Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:47:00.647Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:47:04.085Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:47:12.107Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:47:18.555Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:47:26.574Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:47:33.011Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:47:41.025Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:47:49.043Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:47:57.071Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:48:05.089Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:48:11.543Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:48:19.550Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:48:27.566Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:48:35.591Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:48:42.029Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:48:50.058Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:48:54.273Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:49:02.279Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:49:10.297Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:49:18.497Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:49:26.517Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:49:34.549Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:49:42.563Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:49:50.584Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:49:58.595Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:50:05.043Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:50:13.064Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:50:17.278Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:50:25.293Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:50:31.724Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:50:39.731Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:50:46.179Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:50:54.191Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:51:02.207Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:51:09.225Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:51:17.246Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:51:25.278Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:51:32.308Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:51:35.325Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:51:38.333Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:51:41.339Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:51:44.354Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:51:47.371Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:51:55.390Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:52:02.407Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:52:10.428Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:52:17.466Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:52:25.487Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:52:33.500Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:52:41.508Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:52:48.556Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:52:56.586Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:53:01.431Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:53:09.446Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:53:16.477Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:53:24.510Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:53:29.283Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:53:37.309Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:53:44.347Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:53:52.365Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:53:59.398Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:54:07.421Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:54:14.453Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:54:22.466Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:54:29.502Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:54:37.530Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:54:44.571Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:54:52.592Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:54:57.401Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:55:05.428Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:55:12.470Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:55:20.484Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:55:23.496Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:55:26.500Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:55:29.516Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:55:32.534Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:55:35.553Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:55:38.569Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:55:46.593Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:55:53.625Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:56:01.649Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:56:08.680Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:56:11.697Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:56:14.713Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:56:17.721Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:56:20.733Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:56:23.742Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:56:26.754Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:56:34.757Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:56:41.809Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:56:49.829Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:56:56.854Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:57:04.876Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:57:11.921Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:57:19.936Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:57:26.967Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:57:34.984Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:57:42.014Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:57:50.032Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:57:54.292Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:58:02.331Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:58:10.358Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:58:17.400Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:58:25.427Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:58:33.450Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:58:41.477Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:58:49.495Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T14:58:56.522Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:59:04.531Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:59:12.561Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:59:20.589Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:59:28.618Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:59:36.628Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:59:44.651Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T14:59:52.680Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:00:00.693Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:00:07.724Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:00:15.747Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:00:23.779Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:00:30.797Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:00:38.825Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:00:45.877Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:00:53.894Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:01:00.925Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:01:08.940Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:01:15.992Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:01:24.018Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:01:32.042Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:01:40.059Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:01:44.300Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:01:52.322Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:01:59.363Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:02:07.379Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:02:14.397Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:02:22.411Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:02:30.436Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:02:38.467Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:02:46.492Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:02:54.514Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:03:02.528Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:03:10.552Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:03:18.565Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:03:23.305Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:03:31.317Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:03:38.367Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:03:46.391Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:03:53.409Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:04:01.439Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:04:09.465Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:04:17.490Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:04:25.510Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:04:33.538Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:04:41.555Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:04:49.579Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:04:56.614Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:05:04.635Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:05:12.651Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:05:19.692Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:05:27.717Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:05:35.738Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:05:43.758Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:05:51.767Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:05:56.311Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:06:04.323Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:06:09.338Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:06:17.360Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:06:25.373Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:06:32.420Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:06:40.436Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:06:48.458Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:06:56.482Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:07:04.498Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:07:11.533Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:07:19.543Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:07:26.567Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:07:34.592Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:07:42.613Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:07:50.627Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:07:58.640Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:08:06.654Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:08:13.691Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:08:21.708Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:08:29.733Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:08:37.752Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:08:45.769Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:08:52.804Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:09:00.825Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:09:08.832Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:09:15.875Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:09:23.889Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:09:31.911Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:09:38.951Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:09:46.980Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:09:54.016Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:10:02.038Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:10:10.051Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:10:17.095Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:10:25.112Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:10:33.138Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:10:41.157Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:10:49.176Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:10:57.198Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:11:04.222Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:11:12.247Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:11:20.284Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:11:24.323Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:11:32.340Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:11:39.365Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:11:47.381Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:11:54.411Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:12:02.432Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:12:10.463Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:12:18.485Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:12:26.510Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:12:34.529Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:12:42.544Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:12:49.571Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:12:57.575Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:13:04.627Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:13:12.635Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:13:20.650Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:13:28.668Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:13:36.689Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:13:44.709Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:13:52.732Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:14:00.750Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:14:07.767Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:14:15.790Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:14:23.807Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:14:31.825Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:14:39.832Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:14:47.859Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:14:54.884Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:15:02.905Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:15:10.927Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:15:18.945Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:15:26.973Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:15:34.988Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:15:42.028Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:15:50.059Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:15:54.356Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:16:02.366Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:16:09.386Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:16:17.405Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:16:25.432Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:16:32.480Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:16:40.493Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:16:48.503Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:16:55.541Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:17:03.559Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:17:10.570Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:17:18.585Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:17:25.609Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:17:33.621Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:17:41.649Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:17:48.695Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:17:56.708Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:18:03.751Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:18:11.762Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:18:19.784Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:18:27.802Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:18:34.838Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:18:42.849Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:18:49.893Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:18:57.913Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:19:04.958Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:19:12.981Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:19:20.012Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:19:28.032Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:19:36.052Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:19:40.436Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:19:48.463Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:19:53.364Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:20:01.379Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:20:06.341Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:20:14.373Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:20:21.407Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:20:29.423Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:20:37.450Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:20:42.372Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:20:50.396Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:20:57.409Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:21:05.419Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:21:12.464Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:21:15.471Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:21:18.488Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:21:21.523Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:21:24.540Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:21:27.558Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:21:35.580Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:21:43.592Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:21:50.624Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:21:58.651Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:22:05.689Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:22:13.711Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:22:20.738Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:22:28.750Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-04T15:29:55.621Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:30:02.648Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-04T15:47:42.519Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-04T15:51:44.153Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:51:45.371Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:51:45.392Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:51:45.530Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:51:45.762Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:51:46.082Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:51:47.050Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:51:47.569Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:51:48.174Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:51:48.889Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:51:49.701Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:51:51.118Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:51:56.143Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:51:57.249Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:51:59.136Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:52:00.458Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:52:01.874Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:52:03.381Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:52:04.987Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:52:06.756Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:52:08.566Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:52:10.475Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:52:12.977Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:52:15.765Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:52:18.093Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:52:20.748Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:52:23.358Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:52:25.877Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:52:29.274Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:52:32.001Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:52:34.817Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:52:37.731Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:52:41.147Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:52:44.162Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:52:47.170Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:52:50.180Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:52:53.197Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:52:56.349Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:52:59.360Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:53:06.389Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:53:09.458Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:53:12.481Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:53:15.926Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:53:18.953Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:53:21.973Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:53:25.446Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:53:28.453Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:53:31.483Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:53:34.489Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:53:37.529Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:53:40.543Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:53:43.735Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:53:46.745Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:53:49.763Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:53:52.769Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:53:55.782Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:53:58.799Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:54:01.810Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:54:04.829Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:54:08.490Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:54:11.505Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:54:18.545Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:54:21.553Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:54:24.572Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:54:27.583Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:54:31.004Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:54:34.023Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:54:37.032Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:54:40.040Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:54:43.045Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:54:46.560Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:54:49.579Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:54:52.589Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:54:55.606Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:54:58.617Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:55:01.625Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:55:04.633Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:55:07.642Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:55:10.656Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:55:17.686Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:55:20.706Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:55:23.723Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:55:26.742Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:55:29.765Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:55:32.774Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:55:35.787Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:55:38.803Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:55:41.814Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:55:48.854Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:55:51.866Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:55:54.886Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:55:57.894Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:56:00.910Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:56:03.915Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:56:06.941Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:56:09.957Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:56:12.964Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:56:17.982Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:56:21.000Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:56:24.021Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:56:27.035Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-04T15:56:30.049Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:56:38.074Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-04T15:56:46.078Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-05T05:40:36.938Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-07T16:43:27.423Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:43:28.960Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:43:29.136Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:43:29.405Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:43:29.731Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:43:30.080Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:43:30.603Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:43:31.318Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:43:32.002Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:43:32.755Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:43:33.672Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:43:34.672Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:43:35.706Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:43:36.867Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:43:38.120Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:43:39.446Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:43:40.867Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:43:42.379Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:43:44.012Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:43:45.741Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:43:47.558Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:43:49.471Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:43:51.476Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:43:53.591Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:43:55.895Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:43:58.343Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:44:00.756Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:44:03.263Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:44:05.878Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:44:08.592Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:44:11.412Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:44:14.318Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:44:17.332Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:44:20.353Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:44:23.365Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:44:26.374Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:44:29.392Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:44:32.401Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:44:35.415Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:44:38.419Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:44:41.425Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:44:44.428Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:44:47.434Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:44:50.441Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:44:53.458Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:44:56.462Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:44:59.472Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:45:02.485Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:45:05.500Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:45:08.518Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:45:11.532Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:45:14.548Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:45:17.566Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:45:20.571Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:45:23.588Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:45:26.600Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:45:29.611Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:45:32.628Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:45:35.646Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:45:38.664Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:45:41.673Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:45:44.691Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:45:47.706Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:45:50.719Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:45:53.733Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:45:56.753Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:45:59.759Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:46:02.771Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T16:46:05.795Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-07T17:07:11.310Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-07T17:07:16.607Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-07T17:07:21.619Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-07T17:07:26.738Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:07:26.956Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:07:27.272Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:07:27.692Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:07:28.207Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:07:28.825Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:07:29.544Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:07:30.357Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:07:31.263Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:07:32.278Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:07:33.389Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:07:34.605Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:07:35.924Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:07:37.338Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:07:39.679Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:07:41.294Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:07:43.002Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-07T17:07:49.976Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:07:51.895Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:07:53.909Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:07:56.029Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:07:58.249Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-07T17:08:05.571Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:08:11.987Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:08:15.881Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:08:18.503Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:08:21.224Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:08:24.038Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-07T17:08:31.952Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:08:38.377Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-07T17:08:46.396Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:08:49.411Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:08:52.429Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:08:55.445Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:08:58.454Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:09:01.469Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:09:04.485Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-07T17:09:12.512Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:09:15.532Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:09:18.932Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:09:21.950Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:09:24.956Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:09:28.170Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:09:31.181Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:09:34.190Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:09:37.196Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:09:40.209Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:09:43.213Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:09:46.226Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:09:49.236Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:09:52.240Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:09:55.251Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:09:58.262Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:10:01.274Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:10:04.280Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:10:07.287Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:10:10.306Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:10:13.322Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:10:16.330Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:10:19.343Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:10:22.353Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:10:25.365Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:10:28.370Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-07T17:10:36.383Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-07T17:10:44.410Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:10:50.796Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-07T17:10:58.827Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:11:01.835Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:11:04.853Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:11:07.864Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-07T17:11:15.886Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:11:18.894Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:11:21.911Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:11:24.924Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:11:27.936Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:11:30.952Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-07T17:11:38.977Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:11:45.366Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:11:48.371Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-07T17:11:56.389Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:12:02.749Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:12:05.762Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-07T17:12:08.770Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-07T18:38:38.801Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-08T06:17:08.521Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:17:08.898Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:17:09.528Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:17:10.112Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:17:10.655Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:17:11.732Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:17:12.442Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:17:13.097Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:17:13.930Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:17:14.947Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:17:15.864Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:17:16.803Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:17:17.881Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:17:19.245Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:17:20.768Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:17:22.083Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:17:23.547Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:17:25.111Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:17:26.745Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:17:28.468Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:17:30.305Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:17:32.395Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:17:34.415Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:17:36.616Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-08T06:24:41.188Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-08T06:24:46.340Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-08T06:24:51.359Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:24:53.335Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-08T06:24:58.627Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-08T06:25:03.943Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-08T06:25:09.362Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-08T06:25:14.886Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-08T06:25:20.505Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-08T06:25:26.225Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-08T06:25:32.138Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-08T06:25:38.078Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-08T06:25:44.102Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-08T06:25:50.318Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:25:55.926Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:25:57.273Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:25:58.676Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:26:00.184Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:26:01.804Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:26:03.516Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:26:05.327Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-08T06:26:12.259Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:26:18.743Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-08T06:26:25.857Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:26:32.374Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:26:34.691Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:26:37.104Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:26:40.177Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:26:42.795Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:26:45.518Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-08T06:26:53.328Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:26:56.236Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:26:59.247Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:27:02.266Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:27:05.272Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:27:08.317Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-08T06:27:16.339Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:27:19.357Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:27:22.373Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:27:25.385Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:27:28.427Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:27:31.436Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:27:34.443Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:27:37.458Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:27:40.466Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:27:43.474Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:27:46.494Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:27:49.514Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:27:52.524Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:27:55.541Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:27:58.555Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:28:01.569Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:28:04.586Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:28:07.591Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:28:10.601Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:28:13.616Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-08T06:28:21.651Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:28:28.132Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-08T06:28:36.157Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:28:42.688Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-08T06:28:50.703Z"}
+{"level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis-11748.c273.us-east-1-2.ec2.redns.redis-cloud.com","timestamp":"2025-09-08T06:28:57.221Z"}
+{"level":"error","message":"Redis error: read ECONNRESET","timestamp":"2025-09-08T06:33:17.443Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-08T06:33:22.708Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-08T06:33:27.726Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-08T06:33:32.847Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-08T06:33:38.070Z"}
+{"level":"error","message":"Redis error: Connection timeout","timestamp":"2025-09-08T06:33:43.381Z"}
