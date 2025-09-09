@@ -5,10 +5,10 @@ const useDriverStore = create((set) => ({
   loading: false,
   error: null,
   success: false,
-  inviteDriver: async (email) => {
+  inviteDriver: async (phone) => {
     set({ loading: true, error: null, success: false });
     try {
-      await inviteDriverAPI(email);
+      await inviteDriverAPI(phone);
       set({ loading: false, success: true });
     } catch (error) {
       set({ loading: false, error: error.message, success: false });

@@ -6,12 +6,16 @@ const useDriverStatusStore = create((set) => ({
   loading: false,
   error: null,
 
+  initStatus: (status) => {
+    set({ online: status === "available" });
+  },
+
   toggleStatus: async () => {
     set({ loading: true, error: null });
     try {
       const newStatus = !useDriverStatusStore.getState().online;
       const response = await driverApi.patch("/status", {
-        status: newStatus ? "online" : "offline",
+        status: newStatus ? "available" : "unavailable",
       });
       set({ loading: false, online: newStatus });
       return response.data;
