@@ -201,7 +201,9 @@ function App() {
                 useAuthHook={useDriverAuthStore}
                 loginPath="/driver/login"
               >
-                <DriverOrders />
+                <DriverDashboard>
+                  <DriverOrders />
+                </DriverDashboard>
               </PrivateRoute>
             }
           />
@@ -213,7 +215,9 @@ function App() {
                 useAuthHook={useDriverAuthStore}
                 loginPath="/driver/login"
               >
-                <DriverEarnings />
+                <DriverDashboard>
+                  <DriverEarnings />
+                </DriverDashboard>
               </PrivateRoute>
             }
           />
@@ -225,7 +229,9 @@ function App() {
                 useAuthHook={useDriverAuthStore}
                 loginPath="/driver/login"
               >
-                <DriverProfile />
+                <DriverDashboard>
+                  <DriverProfile />
+                </DriverDashboard>
               </PrivateRoute>
             }
           />
