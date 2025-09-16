@@ -7,6 +7,7 @@ import {
   FiSettings,
   FiLogOut,
   FiBox,
+  FiUser,
 } from "react-icons/fi"; // Added FiBox for Inventory icon
 import { useLocation, useNavigate } from "react-router-dom";
 import useAuthStore from "../../store/restaurant/authStore";
@@ -25,7 +26,7 @@ const Sidebar = () => {
     { label: "Status", icon: FiActivity, path: "/restaurant/status" },
     { label: "Active Driver", icon: FiSettings, path: "/restaurant/active-drivers" },
     { label: "Assign Driver", icon: FiActivity, path: "/restaurant/assign-driver" },
-
+    { label: "Profile", icon: FiUser, path: "/profile" },
   ];
 
   return (

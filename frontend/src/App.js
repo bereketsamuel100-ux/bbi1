@@ -1,3 +1,4 @@
+import Profile from "./pages/Profile";
 import React, { useEffect } from "react";
 import {
   BrowserRouter as Router,
@@ -94,6 +95,14 @@ function App() {
           <Route path="/checkout" element={<CheckoutPage />} />
           <Route path="/order-confirmation" element={<OrderConfirmationPage />} />
           <Route path="/order-status" element={<OrderStatus />} />
+          <Route
+            path="/profile"
+            element={
+              <PrivateRoute>
+                <Profile />
+              </PrivateRoute>
+            }
+          />
 
           {/* Restaurant Pages */}
           <Route path="/restaurant/login" element={<RestaurantLogin />} />
@@ -170,25 +179,25 @@ function App() {
           <Route
             path="/driver/orders/:driverId"
             element={
-              
+
                 <DriverOrders />
-            
+
             }
           />
           <Route
             path="/driver/status/:driverId"
             element={
-              
+
                 <DriverOrderStatus />
-              
+
             }
           />
           <Route
             path="/driver/earnings"
             element={
-            
+
                 <DriverEarnings />
-              
+
             }
           />
 

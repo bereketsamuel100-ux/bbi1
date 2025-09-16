@@ -8,6 +8,7 @@ export default function DriverOrders() {
   const {
     driver,
     orders,
+    earnings,
     loading,
     error,
     updatingStatus,
@@ -35,8 +36,8 @@ export default function DriverOrders() {
     };
   }, [orders]);
 
-  if (loading)
-    return <div className="text-center mt-20 text-lg">Loading driver orders...</div>;
+  if (loading && !driver)
+    return <div className="text-center mt-20 text-lg">Loading driver data...</div>;
   if (error)
     return <div className="text-center mt-20 text-red-500 font-semibold">{error}</div>;
 
@@ -84,9 +85,12 @@ export default function DriverOrders() {
 
         {/* Summary Cards */}
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 mb-6">
+          {/* Order Stats */}
           <div className="p-4 bg-white rounded-xl shadow hover:shadow-lg transition">
-            <p className="text-gray-500">Total Orders</p>
-            <p className="text-2xl font-bold">{summary.total}</p>
+            <p className="text-gray-500">Today's Orders</p>
+            <p className="text-2xl font-bold">
+              {earnings ? earnings.todaysOrderCount : "..."}
+            </p>
           </div>
           <div className="p-4 bg-white rounded-xl shadow hover:shadow-lg transition">
             <p className="text-gray-500">Pending</p>
@@ -97,8 +101,28 @@ export default function DriverOrders() {
             <p className="text-2xl font-bold text-green-500">{summary.delivered}</p>
           </div>
           <div className="p-4 bg-white rounded-xl shadow hover:shadow-lg transition">
-            <p className="text-gray-500">Canceled</p>
-            <p className="text-2xl font-bold text-red-500">{summary.canceled}</p>
+            <p className="text-gray-500">Total Orders</p>
+            <p className="text-2xl font-bold">{summary.total}</p>
+          </div>
+
+          {/* Earnings Stats */}
+          <div className="p-4 bg-white rounded-xl shadow hover:shadow-lg transition col-span-1 sm:col-span-2 lg:col-span-2">
+            <p className="text-gray-500">Today's Earnings</p>
+            <p className="text-2xl font-bold text-green-600">
+              ${earnings ? earnings.todayEarnings.toFixed(2) : "0.00"}
+            </p>
+          </div>
+          <div className="p-4 bg-white rounded-xl shadow hover:shadow-lg transition">
+            <p className="text-gray-500">Weekly Earnings</p>
+            <p className="text-2xl font-bold">
+              ${earnings ? earnings.weeklyEarning.toFixed(2) : "0.00"}
+            </p>
+          </div>
+          <div className="p-4 bg-white rounded-xl shadow hover:shadow-lg transition">
+            <p className="text-gray-500">Total Earnings</p>
+            <p className="text-2xl font-bold">
+              ${earnings ? earnings.totalEarnings.toFixed(2) : "0.00"}
+            </p>
           </div>
         </div>
 
@@ -136,16 +160,36 @@ export default function DriverOrders() {
                     </td>
                     <td className="p-3 border-b">${order.total}</td>
                     <td className="p-3 border-b">
-                      <select
-                        value={order.status}
-                        onChange={(e) => updateOrderStatus(order._id, e.target.value)}
-                        className="p-1 border rounded text-gray-700"
-                      >
-                        <option value="pending">Pending</option>
-                        <option value="picked">Picked</option>
-                        <option value="delivered">Delivered</option>
-                        <option value="canceled">Canceled</option>
-                      </select>
+                      {order.status === "pending" ? (
+                        <div className="flex space-x-2">
+                          <button
+                            onClick={() => updateOrderStatus(order._id, "accepted")}
+                            className="px-3 py-1 bg-green-500 text-white rounded hover:bg-green-600 transition"
+                            disabled={updatingStatus}
+                          >
+                            Accept
+                          </button>
+                          <button
+                            onClick={() => updateOrderStatus(order._id, "canceled")}
+                            className="px-3 py-1 bg-red-500 text-white rounded hover:bg-red-600 transition"
+                            disabled={updatingStatus}
+                          >
+                            Reject
+                          </button>
+                        </div>
+                      ) : (
+                        <span
+                          className={`px-3 py-1 rounded-full text-sm font-medium ${
+                            order.status === "delivered"
+                              ? "bg-green-100 text-green-800"
+                              : order.status === "canceled"
+                              ? "bg-red-100 text-red-800"
+                              : "bg-yellow-100 text-yellow-800"
+                          }`}
+                        >
+                          {order.status.charAt(0).toUpperCase() + order.status.slice(1)}
+                        </span>
+                      )}
                     </td>
                     <td className="p-3 border-b">{order.paymentMethod}</td>
                     <td className="p-3 border-b">{new Date(order.createdAt).toLocaleString()}</td>

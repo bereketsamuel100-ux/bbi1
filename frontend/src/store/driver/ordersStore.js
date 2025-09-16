@@ -1,6 +1,7 @@
 import { create } from "zustand";
 import {
   fetchDriverOrdersAPI,
+  fetchDriverEarningsAPI,
   updateDriverStatusAPI,
   updateOrderStatusAPI,
 } from "../../api/driver/orders";
@@ -8,6 +9,7 @@ import {
 const useDriverOrdersStore = create((set, get) => ({
   driver: null,
   orders: [],
+  earnings: null,
   loading: false,
   error: "",
   updatingStatus: false,
