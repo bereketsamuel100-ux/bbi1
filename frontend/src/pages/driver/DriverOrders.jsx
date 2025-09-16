@@ -1,9 +1,10 @@
 import React, { useEffect, useMemo } from "react";
-import { useParams } from "react-router-dom";
+import { useParams, useNavigate } from "react-router-dom";
 import useDriverOrdersStore from "../../store/driver/ordersStore";
 import DriverSidebar from "../../components/driver/Sidebar";
 
 export default function DriverOrders() {
+  const navigate = useNavigate();
   const { driverId } = useParams();
   const {
     driver,
@@ -134,7 +135,7 @@ export default function DriverOrders() {
             <table className="min-w-full border-collapse text-left">
               <thead className="bg-gray-100 sticky top-0">
                 <tr>
-                  {["Order ID", "Customer ID", "Items", "Total", "Status", "Payment", "Created At"].map(
+                  {["Order ID", "Customer ID", "Items", "Total", "Status", "Payment", "Created At", "Actions"].map(
                     (head) => (
                       <th key={head} className="p-3 text-gray-700 font-medium border-b">
                         {head}
@@ -160,7 +161,7 @@ export default function DriverOrders() {
                     </td>
                     <td className="p-3 border-b">${order.total}</td>
                     <td className="p-3 border-b">
-                      {order.status === "pending" ? (
+                      {order.status === "pending" && (
                         <div className="flex space-x-2">
                           <button
                             onClick={() => updateOrderStatus(order._id, "accepted")}
@@ -177,7 +178,26 @@ export default function DriverOrders() {
                             Reject
                           </button>
                         </div>
-                      ) : (
+                      )}
+                      {order.status === "accepted" && (
+                        <button
+                          onClick={() => updateOrderStatus(order._id, "picked")}
+                          className="px-3 py-1 bg-blue-500 text-white rounded hover:bg-blue-600 transition"
+                          disabled={updatingStatus}
+                        >
+                          Pickup Order
+                        </button>
+                      )}
+                      {order.status === "picked" && (
+                        <button
+                          onClick={() => updateOrderStatus(order._id, "delivered")}
+                          className="px-3 py-1 bg-purple-500 text-white rounded hover:bg-purple-600 transition"
+                          disabled={updatingStatus}
+                        >
+                          Complete Delivery
+                        </button>
+                      )}
+                      {["delivered", "canceled", "preparing", "ready", "en_route"].includes(order.status) && (
                         <span
                           className={`px-3 py-1 rounded-full text-sm font-medium ${
                             order.status === "delivered"
@@ -193,6 +213,16 @@ export default function DriverOrders() {
                     </td>
                     <td className="p-3 border-b">{order.paymentMethod}</td>
                     <td className="p-3 border-b">{new Date(order.createdAt).toLocaleString()}</td>
+                    <td className="p-3 border-b">
+                      {order.status === "accepted" || order.status === "picked" ? (
+                        <button
+                          onClick={() => navigate(`/driver/orders/${order._id}/map`)}
+                          className="px-3 py-1 bg-gray-500 text-white rounded hover:bg-gray-600 transition"
+                        >
+                          View Map
+                        </button>
+                      ) : null}
+                    </td>
                   </tr>
                 ))}
               </tbody>

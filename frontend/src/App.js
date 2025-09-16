@@ -50,6 +50,7 @@ import LoginPage from "./pages/driver/Login";
 import DriverVerificationCode from "./components/driver/VerificationCode";
 import DriverEarnings from "./pages/driver/DriverEarnings";
 import DriverOrderStatus from "./pages/driver/DriverOrderStatus";
+import OrderMapPage from "./pages/driver/OrderMapPage";
 
 function App() {
   const { checkAuth } = useAuthStore();
@@ -189,6 +190,14 @@ function App() {
             element={
 
                 <DriverOrderStatus />
+
+            }
+          />
+          <Route
+            path="/driver/orders/:orderId/map"
+            element={
+
+                <OrderMapPage />
 
             }
           />
